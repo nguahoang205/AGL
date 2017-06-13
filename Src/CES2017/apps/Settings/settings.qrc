@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Settings.qml</file>
+        <file>SettingsLauncher.qml</file>
+        <file>SettingPage.qml</file>
+    </qresource>
+</RCC>
